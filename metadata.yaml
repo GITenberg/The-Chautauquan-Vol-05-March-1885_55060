@@ -1,0 +1,36 @@
+_repo: The-Chautauquan-Vol-05-March-1885_55060
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Chautauqua Literary and Scientific Circle
+    alias: C.L.S.C.
+    gutenberg_agent_id: '44655'
+    url: http://www.gutenberg.org/2009/agents/44655
+  - agent_name: Chautauqua Institution
+    aliases:
+    - Chautauqua Institution, Chautauqua, N.Y.
+    - Chautauqua Sunday School Teachers' Assembly
+    gutenberg_agent_id: '44654'
+    url: http://www.gutenberg.org/2009/agents/44654
+  editor:
+    agent_name: Flood, Theodore L.
+    alias: Flood, T. L. (Theodore L.)
+    birthdate: 1842
+    gutenberg_agent_id: '44656'
+    url: http://www.gutenberg.org/2009/agents/44656
+description: ''
+gutenberg_issued: '2017-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chautauqua Institution -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Chautauqua Literary and Scientific Circle -- Periodicals'
+- GITenberg
+title: The Chautauquan, Vol. 05, March 1885
+url: http://www.gutenberg.org/ebooks/55060
